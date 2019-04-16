@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="emoji">
+    <output-path>$PROJECT_DIR$/target/artifacts/emoji</output-path>
+    <root id="root" />
+  </artifact>
+</component>
