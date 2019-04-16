@@ -1,1 +1,0 @@
-Alter table users alter column username type varchar(255);
