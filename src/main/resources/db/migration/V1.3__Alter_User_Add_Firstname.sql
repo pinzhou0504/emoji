@@ -1,0 +1,1 @@
+Alter table users add column first_name varchar(255);
